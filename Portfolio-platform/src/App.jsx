@@ -51,7 +51,7 @@ function App() {
       <div className="max-w-6xl mx-auto">
         {/* Header Section */}
         <header className="text-center mb-12">
-          <h1 className="text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">
+          <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl">
             Portfolio Showcase
           </h1>
           <p className="mt-4 text-lg text-gray-600">
